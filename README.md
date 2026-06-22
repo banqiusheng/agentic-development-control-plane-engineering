@@ -1,5 +1,7 @@
 # Agentic Development Control Plane Engineering
 
+[English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+
 Agentic Development Control Plane Engineering is a lightweight operating model for shipping software with AI coding agents without letting work disappear into chat history.
 
 It treats AI development as a control-plane problem:
@@ -100,6 +102,7 @@ The contribution here is the operating model that connects those ideas into a li
 
 ## Update Log
 
+- 2026-06-22: Added multilingual README entry points for English, Chinese, Japanese, and Korean.
 - 2026-06-22: Initial public release with the four-pillar method, operating model, prior-art map, and handoff templates.
 
 ## License
